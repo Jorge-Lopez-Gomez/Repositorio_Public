@@ -1,2 +1,2 @@
 # Repositorio_Public
-Esto es una prueba de crear un repositorio publico.
+Hola, este es el archivo "Readme" que ha sido modificado por JFPG.
